@@ -1,0 +1,1939 @@
+fileFormatVersion: 2
+guid: 5bac30c2e6a1b3e4a8742621118038e4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dot-kaze-ti_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 468
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2a3f0279783f946ac953ad81c60cee
+      internalID: -1311015231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 461
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba6f0898cf98d44cbd5e086173d55ec
+      internalID: -1418632533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 468
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf44c82646a45434aa47879630ddbf1f
+      internalID: -281187911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 461
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a06d9feca917f74da2fc6ff15beb16f
+      internalID: -1376174804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 459
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a2348ac1aaabe4bb36599c07d22735
+      internalID: 740451156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 463
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eefab5ba46fe9247b7e2b406e6fad53
+      internalID: 174002916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 463
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e8bd1ba5b19cf4b91a5770945fe8e6
+      internalID: -1967217017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 420
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828cc593052d42148897764c75553e76
+      internalID: -213479321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 420
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2552960069c16418bb1fb6c13a812f
+      internalID: 282396354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 420
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b1ea83f50c3ec45ab12a34f40e0fec
+      internalID: 1382869376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 420
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292f6c9c64ad6147bd407cec123109b
+      internalID: 906331384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 418
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1d30aabf636494ab0338e45cb65bcf
+      internalID: -1530749702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 418
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4343b873cee1199478697f3b3c126a90
+      internalID: -227229152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 418
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb0679a5d27a7344a2db315ea04d18a
+      internalID: -1091480213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 418
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e762819d41f2d1048b239767299cbcb8
+      internalID: 1021095256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 394
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb56295102f1ce4fa5e4cea4eda1149
+      internalID: -1535637934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 395
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0559074f2c627499fab098abca0a93
+      internalID: -790598473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 395
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b2386030bfdb40a217aa70b178f13
+      internalID: -239592112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 394
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8d8923e25869948b3075eabb9f57f0
+      internalID: -1892783734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 388
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73390f844c4d04d419fc0187c9e5bbdf
+      internalID: 1553420214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 388
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cbb3b6aa32c474c895791a8c823c53
+      internalID: -1765146135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 388
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3918d074011c5994ebd317a188af9980
+      internalID: 1492872905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 388
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2472739fa4235e64da0cdeb1f4ac788f
+      internalID: 1226657430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 388
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616bbf631f70f554a8e7068159e411e2
+      internalID: 978499584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 388
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f83d52f0670a74b88d46f6aef0665b
+      internalID: 8706669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 388
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120a5811f691b4c44991b7875c005ca2
+      internalID: -350339917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 388
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a380446d8f7faec48b2c890817235c32
+      internalID: 2133175939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 356
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8b4edff09de4249b8b711930752d66
+      internalID: -1168020845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 356
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d3c8f75233b37438e06c7c329a1e95
+      internalID: -305236233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 356
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cfdac0ec8e4bd4289788e995fedebe
+      internalID: 1065157956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_30
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 331
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc54207e832d1245801eaee3e92dd10
+      internalID: 227915447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_31
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 335
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d40647ce783a0429ad68c5c997b2a8
+      internalID: 1937513354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_32
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 335
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ab0ae84a163d74da8a34fd8c445a4c
+      internalID: -1776419016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 324
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e65cf4890db644d96596a499f7fea9
+      internalID: 1552752533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 324
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae795e98156bca4fa66611875fec67e
+      internalID: 1936795904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 324
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c5e8913dff44247abce38850577bfc
+      internalID: 82062404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 324
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a090fc8e9bf6afa4c80ed7689df40797
+      internalID: 891376910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 324
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a17fe36894c6248bd45b647040aff9
+      internalID: 874752109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 324
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e360f36b266dd184ca80405aad3e9068
+      internalID: -598400990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 324
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9ee26f95bd51b489272cb88f9bfae1
+      internalID: -105771341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 324
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b838b4521a48ad045b30e58930e5386e
+      internalID: -1585001468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 292
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c70c36e4c6c3b4abe66967648c25ce
+      internalID: -1021802061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 292
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5358e6daa2aea6b4ebc22add3efba7ba
+      internalID: 1743564686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 292
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace6905ff2c85a44bb63d85da3183c97
+      internalID: -795540688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_44
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 266
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d9ec1648566c243bc5dd228ec1e678
+      internalID: -961304560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_45
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 267
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b079eb2e88c7e4b8f4cd61b1754ed8
+      internalID: -161886830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_46
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 267
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d40956f001202640beef8cb596d54ab
+      internalID: -1947878052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_47
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 266
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb7c5608e200334c987d1c81a582dd7
+      internalID: 745875708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f17d2ee21d2c244c8c2f86868384047
+      internalID: 428246860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 260
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c2ad0b65956b6448e5e37fca1506df
+      internalID: 1460690617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 260
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd00df819988b94a840af1dbad0afca
+      internalID: 138680527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 260
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df77af27a345ce48bfc13b5e3698442
+      internalID: -2142375191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 260
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792bfa0c2cf051a48943cb29c576be7d
+      internalID: 1427394229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 260
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e38b6a0b5c6914591dfc5400cb449d
+      internalID: -426799539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_54
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 260
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f90eba41ad2f7c468e0d8e1526534a8
+      internalID: -805304335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 260
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d356d4a7bf77b342a48cf5db485dcd6
+      internalID: 2029775691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 228
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fdd8290c182b140b195d5d0f40c98e
+      internalID: 947980832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_57
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 228
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cde48ad46ba4d4eaeab1187f1f0768
+      internalID: 1998779816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 228
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8d6ab077785fe4d8916c5f74d25f7d
+      internalID: -1314688691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_59
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 205
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9419ebc69f08f64498b01f9fb77b5228
+      internalID: 1046517802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_60
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 214
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ea7250790e2244685b0b3d090b691f
+      internalID: -1568012169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_61
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 215
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f30d0eaf906f0445937446285009ff7
+      internalID: -155272255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_62
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc0ebfb03f28ce4eabc43b5b43c8e7a
+      internalID: -1225851656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 196
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3981a5190a597cb4d85e4ed1bf41ca92
+      internalID: -1986676779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_64
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 196
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c25363158f2950489089e00a86f9e7f
+      internalID: 2022756047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_65
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e7729fc9fcca5468bf884ea435e033
+      internalID: -1299730289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_66
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 196
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0db82eb977ea764dad814f877141969
+      internalID: -250224099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_67
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 196
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef3142742cc6e947af35bdfae13a679
+      internalID: 619634488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 196
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8894d7d7b84c64480c5b0b5f31debb
+      internalID: 1385549359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_69
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 196
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fae0f6bb75543419015d2f2c95dd8c
+      internalID: 1660375758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_70
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 148
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b4d4b27192baa408088ef750f69421
+      internalID: -1953862345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 146
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0673110d85a8e4f92af7cd69e2b693
+      internalID: -1142270500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 146
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045d9360e4535774eb1dd7b08f00d57b
+      internalID: 1580131216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_73
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 147
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00bb693c96ef88448caff7ff4c634e9
+      internalID: 885913889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_74
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 84
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1979272929445e4096052d14aafdedb
+      internalID: -1772598925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_75
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 82
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629450dd52679404cbad0ffd98942587
+      internalID: 1577736926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_76
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 82
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f481a78af9beec740b16d36aaae1581a
+      internalID: -2058490746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 83
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eadc0e583a768042b72e6311b9d382b
+      internalID: -239612356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_78
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807baa31077580948a37c70f42353786
+      internalID: -450302348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_79
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 18
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7225174205aa043ae1ca3c5d78b0ea
+      internalID: 2130989940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_80
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 18
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef21066b437b542a7d0d6cfd2fd49e
+      internalID: -791317436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot-kaze-ti_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 19
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7010471b585cc3245a45f3179e5eb330
+      internalID: -1110845074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dot-kaze-ti_14: 1021095256
+      dot-kaze-ti_8: 282396354
+      dot-kaze-ti_18: -1892783734
+      dot-kaze-ti_20: -1765146135
+      dot-kaze-ti_40: -1585001468
+      dot-kaze-ti_76: -2058490746
+      dot-kaze-ti_51: -2142375191
+      dot-kaze-ti_13: -1091480213
+      dot-kaze-ti_41: -1021802061
+      dot-kaze-ti_50: 138680527
+      dot-kaze-ti_4: 740451156
+      dot-kaze-ti_58: -1314688691
+      dot-kaze-ti_23: 978499584
+      dot-kaze-ti_66: -250224099
+      dot-kaze-ti_77: -239612356
+      dot-kaze-ti_17: -239592112
+      dot-kaze-ti_37: 874752109
+      dot-kaze-ti_5: 174002916
+      dot-kaze-ti_70: -1953862345
+      dot-kaze-ti_71: -1142270500
+      dot-kaze-ti_7: -213479321
+      dot-kaze-ti_56: 947980832
+      dot-kaze-ti_79: 2130989940
+      dot-kaze-ti_31: 1937513354
+      dot-kaze-ti_26: 2133175939
+      dot-kaze-ti_35: 82062404
+      dot-kaze-ti_53: -426799539
+      dot-kaze-ti_62: -1225851656
+      dot-kaze-ti_78: -450302348
+      dot-kaze-ti_2: -281187911
+      dot-kaze-ti_22: 1226657430
+      dot-kaze-ti_64: 2022756047
+      dot-kaze-ti_21: 1492872905
+      dot-kaze-ti_57: 1998779816
+      dot-kaze-ti_59: 1046517802
+      dot-kaze-ti_32: -1776419016
+      dot-kaze-ti_30: 227915447
+      dot-kaze-ti_42: 1743564686
+      dot-kaze-ti_33: 1552752533
+      dot-kaze-ti_54: -805304335
+      dot-kaze-ti_65: -1299730289
+      dot-kaze-ti_11: -1530749702
+      dot-kaze-ti_12: -227229152
+      dot-kaze-ti_3: -1376174804
+      dot-kaze-ti_6: -1967217017
+      dot-kaze-ti_1: -1418632533
+      dot-kaze-ti_60: -1568012169
+      dot-kaze-ti_24: 8706669
+      dot-kaze-ti_72: 1580131216
+      dot-kaze-ti_48: 428246860
+      dot-kaze-ti_73: 885913889
+      dot-kaze-ti_29: 1065157956
+      dot-kaze-ti_44: -961304560
+      dot-kaze-ti_80: -791317436
+      dot-kaze-ti_49: 1460690617
+      dot-kaze-ti_19: 1553420214
+      dot-kaze-ti_63: -1986676779
+      dot-kaze-ti_10: 906331384
+      dot-kaze-ti_25: -350339917
+      dot-kaze-ti_28: -305236233
+      dot-kaze-ti_39: -105771341
+      dot-kaze-ti_75: 1577736926
+      dot-kaze-ti_69: 1660375758
+      dot-kaze-ti_38: -598400990
+      dot-kaze-ti_61: -155272255
+      dot-kaze-ti_15: -1535637934
+      dot-kaze-ti_34: 1936795904
+      dot-kaze-ti_55: 2029775691
+      dot-kaze-ti_0: -1311015231
+      dot-kaze-ti_68: 1385549359
+      dot-kaze-ti_45: -161886830
+      dot-kaze-ti_81: -1110845074
+      dot-kaze-ti_47: 745875708
+      dot-kaze-ti_43: -795540688
+      dot-kaze-ti_52: 1427394229
+      dot-kaze-ti_27: -1168020845
+      dot-kaze-ti_67: 619634488
+      dot-kaze-ti_46: -1947878052
+      dot-kaze-ti_74: -1772598925
+      dot-kaze-ti_16: -790598473
+      dot-kaze-ti_36: 891376910
+      dot-kaze-ti_9: 1382869376
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
